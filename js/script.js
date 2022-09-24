@@ -4,4 +4,4 @@
     a multi-line 
     comment */
 
-const name = 'Savannah Ramirez'
+console.log("Savannah Ramirez");
