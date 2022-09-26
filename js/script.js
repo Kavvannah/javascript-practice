@@ -7,3 +7,10 @@
 console.log("Savannah Ramirez");
 
 console.log("Abondigas");
+
+// .length practice
+const daily = 'Supercalifragilisticexpialidocious'
+console.log(daily.length);
+
+let number = '1234567890';
+console.log(number);
