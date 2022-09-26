@@ -14,3 +14,7 @@ console.log(daily.length);
 
 let number = '1234567890';
 console.log(number);
+
+// BigInt
+const bigInt = 9876543210123456789n
+console.log(bigInt);
